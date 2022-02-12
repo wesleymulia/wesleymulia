@@ -7,6 +7,13 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
+
+<p align="left">
+<a href="https://github.com/wesleymulia">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wesleymulia&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wesleymulia&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 <!--
 **wesleymulia/wesleymulia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
